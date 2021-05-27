@@ -1,7 +1,7 @@
 {
-  "short_name": "Safe App",
-  "name": "Gnosis Safe App Starter",
-  "description": "Describe your Safe App here",
+  "short_name": "Moonshine",
+  "name": "Moonsine Safe",
+  "description": "State and Bridge Managment",
   "iconPath": "logo.svg",
   "icons": [
     {
